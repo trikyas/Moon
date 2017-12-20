@@ -38,29 +38,30 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
+#twitter:            username
 facebook:           /trikyas
-github-url:         username
+github-url:         /trikyas
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           /trikyas
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
-#codepen:           username
+codepen:            /trikyas
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+wakatime           /@Trikyas
 
 # Gems
 gems:
