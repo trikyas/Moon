@@ -1,6 +1,6 @@
 # Site
 title:              Trikyas
-bio:                'A random coder'
+bio:                'I am a random coder'
 description:        "I build cool things by randomly pressing things on my keyboard"
 reading_time:       true
 words_per_minute:   200
@@ -39,7 +39,7 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            username
-facebook:           username
+facebook:           trikyas
 github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
