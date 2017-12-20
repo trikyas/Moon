@@ -39,10 +39,10 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           /trikyas
-github-url:         /trikyas
+facebook:           'trikyas'
+github-url:         'trikyas'
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           /trikyas
+linkedin:           'trikyas'
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -57,11 +57,11 @@ linkedin:           /trikyas
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
-codepen:            /trikyas
+codepen:            'trikyas'
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-wakatime           /@Trikyas
+wakatime:          '@Trikyas'
 
 # Gems
 gems:
