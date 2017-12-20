@@ -28,4 +28,4 @@ You can freely download this site and edit it.
  * remove all files in _posts folder and create your own
  * Don't forget to rename the project
       
-[Download Website!](https://github.com/Trikyas/Moon){: .btn}
+[Download Website!](https://github.com/trikyas/Moon.git){: .btn}
